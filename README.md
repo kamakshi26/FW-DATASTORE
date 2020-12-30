@@ -11,7 +11,7 @@ STEPS:
 4. run
 
 WORKING:
-1. CREATE , DELETE AND READ OPERATIONS ON KEY VALUE DATASTORE WHICH IS STORED IN "data.txt" TEXT FILE.
+1. basic CRD operations on json datastore which is stored in "data.txt" TEXT FILE.
 2.  if want, change input values by editing the "data.txt" file
 
 Create:
